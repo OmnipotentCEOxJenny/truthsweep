@@ -1,15 +1,15 @@
 # TruthTrace
 
-![TruthTrace logo](assets/logo.png)
-
 TruthTrace is a free fact-check helper for social posts, articles, screenshots and claims. It follows the SIFT method from Mike Caulfield: **Stop**, **Investigate the source**, **Find better coverage**, **Trace claims, quotes and media to the original context**. Every report cites the sources it opened, gives a verdict with a confidence level, and marks anything it could not confirm as UNVERIFIED. It never invents a source.
+
+![TruthTrace logo](assets/logo.png)
 
 ## Project status: done, pending, uncertain
 **Done**
 - 2026-10-20: v1.0.0 built and tested: manifest valid JSON, skill frontmatter valid, every file link resolves, example matches the template, and a real check (Great Wall from space) run with live sources (all URLs HTTP 200).
 
 **Pending**
-- Marketplace submission: not submitted yet.
+- Marketplace review: submitted 2026-10-20, pending, no approval yet.
 - Translated summaries below are machine-made and not reviewed by native speakers. Corrections welcome through an issue.
 - Reverse image search depends on tools the user runs; TruthTrace does not ship one.
 
@@ -49,30 +49,19 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/truthtrace 
 - `examples/great-wall-from-space.md`: a real, sourced example.
 
 ## Languages
-These summaries are machine-made translations and have not been reviewed by native speakers. The English text is authoritative.
-
-- **Español:** TruthTrace es un plugin gratuito que verifica publicaciones, artículos y afirmaciones con el método SIFT, cita fuentes y marca lo no verificado.
-- **Français:** TruthTrace est un plugin gratuit qui vérifie publications, articles et affirmations avec la méthode SIFT, cite ses sources et signale ce qui n'est pas vérifié.
-- **Deutsch:** TruthTrace ist ein kostenloses Plugin, das Beiträge, Artikel und Behauptungen mit der SIFT-Methode prüft, Quellen nennt und Ungeprüftes kennzeichnet.
-- **Português:** TruthTrace é um plugin gratuito que verifica publicações, artigos e alegações com o método SIFT, cita fontes e marca o que não foi verificado.
-- **Italiano:** TruthTrace è un plugin gratuito che verifica post, articoli e affermazioni con il metodo SIFT, cita le fonti e segnala ciò che non è verificato.
-- **Nederlands:** TruthTrace is een gratis plug-in die berichten, artikelen en beweringen controleert met de SIFT-methode, bronnen vermeldt en ongeverifieerde punten markeert.
-- **Polski:** TruthTrace to darmowa wtyczka, która sprawdza posty, artykuły i twierdzenia metodą SIFT, podaje źródła i oznacza to, co niezweryfikowane.
-- **Русский:** TruthTrace — бесплатный плагин, который проверяет посты, статьи и утверждения методом SIFT, указывает источники и отмечает непроверенное.
-- **Українська:** TruthTrace — безкоштовний плагін, що перевіряє дописи, статті й твердження методом SIFT, наводить джерела та позначає неперевірене.
-- **Türkçe:** TruthTrace, gönderileri, makaleleri ve iddiaları SIFT yöntemiyle doğrulayan, kaynak gösteren ve doğrulanmamış olanı işaretleyen ücretsiz bir eklentidir.
-- **العربية:** TruthTrace إضافة مجانية تتحقق من المنشورات والمقالات والادعاءات بطريقة SIFT، وتذكر المصادر وتشير إلى ما لم يتم التحقق منه.
-- **עברית:** TruthTrace הוא תוסף חינמי שבודק פוסטים, כתבות וטענות בשיטת SIFT, מצטט מקורות ומסמן מה שלא אומת.
-- **فارسی:** TruthTrace افزونه‌ای رایگان است که پست‌ها، مقاله‌ها و ادعاها را با روش SIFT بررسی می‌کند، منابع را ذکر می‌کند و موارد تأییدنشده را علامت می‌زند.
-- **हिन्दी:** TruthTrace एक मुफ़्त प्लगइन है जो SIFT विधि से पोस्ट, लेख और दावों की जाँच करता है, स्रोत बताता है और असत्यापित बातों को चिह्नित करता है।
-- **বাংলা:** TruthTrace একটি বিনামূল্যের প্লাগইন, যা SIFT পদ্ধতিতে পোস্ট, প্রবন্ধ ও দাবি যাচাই করে, উৎস উল্লেখ করে এবং অযাচাইকৃত বিষয় চিহ্নিত করে।
-- **اردو:** TruthTrace ایک مفت پلگ اِن ہے جو SIFT طریقے سے پوسٹس، مضامین اور دعووں کی جانچ کرتا ہے، ذرائع بتاتا ہے اور غیر تصدیق شدہ باتوں کی نشاندہی کرتا ہے۔
-- **中文（简体）:** TruthTrace 是一款免费插件，使用 SIFT 方法核查帖子、文章和说法，注明来源并标记未经核实的内容。
-- **日本語:** TruthTrace は、SIFT 法で投稿・記事・主張を検証し、出典を示し、未確認の点を明示する無料プラグインです。
-- **한국어:** TruthTrace는 SIFT 방법으로 게시물, 기사, 주장을 검증하고 출처를 밝히며 확인되지 않은 내용을 표시하는 무료 플러그인입니다.
-- **Bahasa Indonesia:** TruthTrace adalah plugin gratis yang memeriksa unggahan, artikel, dan klaim dengan metode SIFT, mencantumkan sumber, dan menandai yang belum terverifikasi.
-- **Tiếng Việt:** TruthTrace là plugin miễn phí kiểm chứng bài đăng, bài báo và tuyên bố bằng phương pháp SIFT, trích dẫn nguồn và đánh dấu điều chưa được xác minh.
-- **Kiswahili:** TruthTrace ni programu-jalizi ya bure inayokagua machapisho, makala na madai kwa mbinu ya SIFT, inataja vyanzo na kuweka alama kwa yasiyothibitishwa.
+The AI answers in the user's language and keeps commands, file names and status labels unchanged. Title, description and honest-assessment summaries in 23 languages are in [TRANSLATIONS.md](TRANSLATIONS.md): Español, Français, Português, Deutsch, Italiano, Nederlands, Polski, Русский, Українська, Türkçe, العربية, עברית, فارسی, हिन्दी, বাংলা, اردو, 简体中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, Kiswahili, Tagalog / Filipino. They are machine translations, not yet reviewed by native speakers; the English text is authoritative.
 
 ## License
 MIT. See `LICENSE`.
+
+## Honest assessment: what this plugin cannot do
+Written to be fully transparent. If something here is wrong or out of date, please open an issue.
+
+- It needs the AI host's web search to check claims. Without web access it can only guide you through the SIFT steps.
+- It does not include a reverse image search; image tracing uses tools you run yourself.
+- It cannot read paywalled or login-only content, so some claims stay UNVERIFIED.
+- A verdict is only as good as the sources available at the time; it can be wrong and can change as new evidence appears.
+- Marketplace: submitted 2026-10-20 and still pending review; it is not an approved listing yet.
+- Translations: the 23 translated summaries in [TRANSLATIONS.md](TRANSLATIONS.md) are machine-made and have not been reviewed by native speakers. The English text is authoritative.
+- It is not legal advice and cannot guarantee that any particular use is lawful; you remain responsible for how you use it.
+- Rules and compliance: it is built to follow all local, county, state and federal laws and every platform's rules. It uses no paid services, never bypasses logins, paywalls, CAPTCHAs or access controls, and never claims a feature it does not have.
