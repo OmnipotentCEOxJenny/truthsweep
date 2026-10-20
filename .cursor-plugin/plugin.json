@@ -1,0 +1,23 @@
+{
+  "name": "truthtrace",
+  "displayName": "TruthTrace",
+  "version": "1.0.0",
+  "description": "Free fact-check helper for social posts, articles and claims using the SIFT method (Stop, Investigate, Find, Trace). Cites sources, rates confidence, flags anything unverified.",
+  "author": {
+    "name": "Rob Domaine / Omnipotent Media LLC"
+  },
+  "publisher": "Omnipotent Media LLC",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/truthtrace",
+  "repository": "https://github.com/OmnipotentCEOxJenny/truthtrace",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "fact-check",
+    "sift",
+    "misinformation",
+    "media-literacy",
+    "research",
+    "citations",
+    "multilingual"
+  ]
+}
