@@ -1,4 +1,4 @@
-# Example: real TruthTrace check (run 2026-10-20)
+# Example: real TruthSweep check (run 2026-10-20)
 
 **Claim:** "The Great Wall of China is the only man-made object you can see from space with the naked eye."
 **Verdict:** False (for the naked eye; the wall can be photographed from orbit with long lenses)

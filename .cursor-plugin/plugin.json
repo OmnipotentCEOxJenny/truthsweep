@@ -1,18 +1,18 @@
 {
-  "name": "truthtrace",
-  "displayName": "TruthTrace",
-  "version": "1.0.3",
+  "name": "truthsweep",
+  "displayName": "TruthSweep",
+  "version": "1.0.4",
   "description": "Free fact-check helper for social posts, articles and claims using the SIFT method (Stop, Investigate, Find, Trace). Cites sources, rates confidence, flags anything unverified.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
   },
   "publisher": "Omnipotent Media LLC",
-  "homepage": "https://github.com/OmnipotentCEOxJenny/truthtrace",
-  "repository": "https://github.com/OmnipotentCEOxJenny/truthtrace",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/truthsweep",
+  "repository": "https://github.com/OmnipotentCEOxJenny/truthsweep",
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
-    "TruthTrace",
+    "TruthSweep",
     "FactCheck",
     "FactChecker",
     "SiftMethod",
@@ -44,6 +44,13 @@
     "HonestAi",
     "verification",
     "JennyEcho",
-    "OmnipotentCeo"
+    "OmnipotentCeo",
+    "SweepClaims",
+    "ScreenshotCheck",
+    "QuoteCheck",
+    "CitedSources",
+    "ReverseImageSearch",
+    "OriginalContext",
+    "PhotoVerification"
   ]
 }

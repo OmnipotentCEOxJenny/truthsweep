@@ -1,9 +1,9 @@
 ---
-name: truthtrace-check
+name: truthsweep-check
 description: Fact-check a social media post, article, screenshot text or claim with the SIFT method (Stop, Investigate the source, Find better coverage, Trace claims to the original). Use when a user asks "is this true?", "can I trust this?", "fact-check this" or wants a source checked before sharing.
 ---
 
-# TruthTrace check (SIFT)
+# TruthSweep check (SIFT)
 
 Follow `rules/pillars-and-scope.mdc`. Required. Answer in the user's language.
 
@@ -15,7 +15,7 @@ Follow `rules/pillars-and-scope.mdc`. Required. Answer in the user's language.
 5. **Rate** each claim with one verdict and one confidence level:
    - Verdicts: **True**, **Mostly true**, **Missing context**, **Misleading**, **False**, **Unverified**.
    - Confidence: **High** (2+ independent strong sources agree, original traced), **Medium** (good sources but original not traced, or minor disagreement), **Low** (one source, or weak sources).
-6. **Report** with the template in `skills/truthtrace-check/references/report-template.md`: claim, verdict, confidence, sources (title, publisher, date, URL, what it says), the original, and what is still unverified.
+6. **Report** with the template in `skills/truthsweep-check/references/report-template.md`: claim, verdict, confidence, sources (title, publisher, date, URL, what it says), the original, and what is still unverified.
 7. **Double-check before sending (pillar 3):** every URL was opened this session; every quote matches the page; dates are the page's own dates.
 
 ## Never

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4 (2026-10-22)
+- Renamed from TruthTrace to TruthSweep (manifest name `truthsweep`, repo github.com/OmnipotentCEOxJenny/truthsweep, skill `truthsweep-check`). Releases 1.0.0 to 1.0.3 and the 2026-10-20 marketplace submission were made under the former name TruthTrace.
+- Keywords: 40, with TruthSweep, JennyEcho and OmnipotentCeo. Logo artwork unchanged.
+- No behavior changes.
+
 ## 1.0.3 (2026-10-21)
 - Added `tests/check_frontmatter.py`: a strict YAML front-matter check (PyYAML `safe_load`) for every SKILL.md and rules .mdc file, plus a plugin.json JSON check. Run `python3 tests/check_frontmatter.py` from the repo root; it catches the unquoted-colon bug fixed in PluginPulse 1.0.2.
 - No behavior changes to skills or rules.
@@ -15,4 +20,4 @@
 - Status corrected: marketplace submission made 2026-10-20 (pending review).
 
 ## 1.0.0 (2026-10-20)
-- First release: truthtrace-check (full SIFT workflow with verdicts and confidence) and trace-to-original skills, report template, pillars rule, real worked example (Great Wall from space), logo, translated summaries in 22 languages (machine-made, not native-reviewed).
+- First release: truthsweep-check (full SIFT workflow with verdicts and confidence) and trace-to-original skills, report template, pillars rule, real worked example (Great Wall from space), logo, translated summaries in 22 languages (machine-made, not native-reviewed).

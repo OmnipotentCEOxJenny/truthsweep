@@ -1,4 +1,4 @@
-# TruthTrace report
+# TruthSweep report
 
 **Claim:** <exact claim, one line>
 **Verdict:** <True | Mostly true | Missing context | Misleading | False | Unverified>

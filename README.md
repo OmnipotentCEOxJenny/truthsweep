@@ -1,20 +1,20 @@
-# TruthTrace
+# TruthSweep
 
-TruthTrace is a free fact-check helper for social posts, articles, screenshots and claims. It follows the SIFT method from Mike Caulfield: **Stop**, **Investigate the source**, **Find better coverage**, **Trace claims, quotes and media to the original context**. Every report cites the sources it opened, gives a verdict with a confidence level, and marks anything it could not confirm as UNVERIFIED. It never invents a source.
+TruthSweep is a free fact-check helper for social posts, articles, screenshots and claims. It follows the SIFT method from Mike Caulfield: **Stop**, **Investigate the source**, **Find better coverage**, **Trace claims, quotes and media to the original context**. Every report cites the sources it opened, gives a verdict with a confidence level, and marks anything it could not confirm as UNVERIFIED. It never invents a source.
 
-![TruthTrace logo](assets/logo.png)
+![TruthSweep logo](assets/logo.png)
 
 ## Project status: done, pending, uncertain
 **Done**
 - 2026-10-20: v1.0.0 built and tested: manifest valid JSON, skill frontmatter valid, every file link resolves, example matches the template, and a real check (Great Wall from space) run with live sources (all URLs HTTP 200).
 
 **Pending**
-- Marketplace review: submitted 2026-10-20, pending, no approval yet.
+- Marketplace review: submitted 2026-10-20 under the former name TruthTrace (now TruthSweep), pending, no approval yet.
 - Translated summaries below are machine-made and not reviewed by native speakers. Corrections welcome through an issue.
-- Reverse image search depends on tools the user runs; TruthTrace does not ship one.
+- Reverse image search depends on tools the user runs; TruthSweep does not ship one.
 
 **Uncertain**
-- How well each AI host searches the web: TruthTrace relies on the host's own web access. Without it, TruthTrace can only guide the user through the steps.
+- How well each AI host searches the web: TruthSweep relies on the host's own web access. Without it, TruthSweep can only guide the user through the steps.
 - How the listing works on the Grok Bot and Grok side: not described in the publisher terms.
 
 ## Quick start
@@ -23,17 +23,17 @@ TruthTrace is a free fact-check helper for social posts, articles, screenshots a
 3. Get a SIFT report: verdict, confidence, cited sources, the original, and what is still unverified.
 
 ## Installation
-Install from this repository: https://github.com/OmnipotentCEOxJenny/truthtrace (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). No dependencies, no API keys, no paid services.
+Install from this repository: https://github.com/OmnipotentCEOxJenny/truthsweep (Cursor plugin format: `.cursor-plugin/plugin.json`, `skills/`, `rules/`). No dependencies, no API keys, no paid services.
 
 ## Testing
-1. Ask TruthTrace to fact-check: "You can see the Great Wall of China from space with the naked eye."
+1. Ask TruthSweep to fact-check: "You can see the Great Wall of China from space with the naked eye."
 2. Expected: verdict False, confidence High, at least two independent sources (for example NASA and Scientific American) with working URLs, the traced original (NASA's account of the 2004 ISS photo), and a "Still unverified" section.
 3. Compare with `examples/great-wall-from-space.md`.
 
 ## Credits
 - Inventor and publisher: Rob Domaine / Omnipotent Media LLC
 - Builder: Jenny Echo
-- Method: Mike Caulfield, SIFT (The Four Moves), https://hapgood.us/2019/06/19/sift-the-four-moves/ ; *Web Literacy for Student Fact-Checkers* (CC BY 4.0). TruthTrace is independent and not endorsed by him.
+- Method: Mike Caulfield, SIFT (The Four Moves), https://hapgood.us/2019/06/19/sift-the-four-moves/ ; *Web Literacy for Student Fact-Checkers* (CC BY 4.0). TruthSweep is independent and not endorsed by him.
 
 ## Rob Domaine's four pillars
 1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
@@ -42,8 +42,8 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/truthtrace 
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Components
-- `skills/truthtrace-check`: the full SIFT check with verdicts and confidence.
-- `skills/truthtrace-check/references/report-template.md`: the report format.
+- `skills/truthsweep-check`: the full SIFT check with verdicts and confidence.
+- `skills/truthsweep-check/references/report-template.md`: the report format.
 - `skills/trace-to-original`: tracing quotes, statistics, images and changed pages.
 - `rules/pillars-and-scope.mdc`: the pillars and scope.
 - `examples/great-wall-from-space.md`: a real, sourced example.
