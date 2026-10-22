@@ -12,6 +12,7 @@
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
+    "truthtrace",
     "fact-check",
     "fact-checker",
     "sift-method",
@@ -47,6 +48,7 @@
     "trustworthy-sources",
     "honest-ai",
     "verification",
-    "multilingual"
+    "multilingual",
+    "jenny-echo"
   ]
 }
