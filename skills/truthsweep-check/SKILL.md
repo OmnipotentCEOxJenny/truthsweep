@@ -5,7 +5,7 @@ description: Fact-check a social media post, article, screenshot text or claim w
 
 # TruthSweep check (SIFT)
 
-Follow `rules/pillars-and-scope.mdc`. Required. Answer in the user's language.
+Follow `rules/scope.mdc`. Required. Answer in the user's language.
 
 ## Workflow
 1. **Stop.** Restate the exact claim(s) to be checked in one line each. Note the user's purpose: a quick share check (reputation is enough) or deep research (check each key claim). Do not repeat or amplify the claim as fact while checking.
@@ -16,7 +16,7 @@ Follow `rules/pillars-and-scope.mdc`. Required. Answer in the user's language.
    - Verdicts: **True**, **Mostly true**, **Missing context**, **Misleading**, **False**, **Unverified**.
    - Confidence: **High** (2+ independent strong sources agree, original traced), **Medium** (good sources but original not traced, or minor disagreement), **Low** (one source, or weak sources).
 6. **Report** with the template in `skills/truthsweep-check/references/report-template.md`: claim, verdict, confidence, sources (title, publisher, date, URL, what it says), the original, and what is still unverified.
-7. **Double-check before sending (pillar 3):** every URL was opened this session; every quote matches the page; dates are the page's own dates.
+7. **Double-check before sending:** every URL was opened this session; every quote matches the page; dates are the page's own dates.
 
 ## Never
 - Never invent a citation or fill a gap with a guess. Write "not found" instead.

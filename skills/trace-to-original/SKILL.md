@@ -5,7 +5,7 @@ description: Trace a quote, statistic, image or video back to its original sourc
 
 # Trace to the original
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language.
+Follow `rules/scope.mdc`. Answer in the user's language.
 
 1. **Quote:** search the exact wording in quotation marks; find the earliest dated appearance; open the original speech, transcript, book or post. Check the words and the surrounding context match.
 2. **Statistic:** find the study, dataset or agency report it comes from; check the number, the unit, the year, and what was actually measured.

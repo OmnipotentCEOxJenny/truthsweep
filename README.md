@@ -40,17 +40,11 @@ Install from this repository: https://github.com/OmnipotentCEOxJenny/truthsweep 
 - Builder: Jenny Echo
 - Method: Mike Caulfield, SIFT (The Four Moves), https://hapgood.us/2019/06/19/sift-the-four-moves/ ; *Web Literacy for Student Fact-Checkers* (CC BY 4.0). TruthSweep is independent and not endorsed by him.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: legitimate, proven sources and methods; unreliable sources rejected.
-3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/truthsweep-check`: the full SIFT check with verdicts and confidence.
 - `skills/truthsweep-check/references/report-template.md`: the report format.
 - `skills/trace-to-original`: tracing quotes, statistics, images and changed pages.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `examples/great-wall-from-space.md`: a real, sourced example.
 
 ## Languages
