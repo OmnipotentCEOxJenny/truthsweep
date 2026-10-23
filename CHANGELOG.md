@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5 (2026-10-23)
+- Translations: each language section in TRANSLATIONS.md now starts with a one-line notice in that language saying it is a machine translation, not reviewed by a native speaker, and that the English version is authoritative. README Languages section notes this. No behavior changes.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.4 (2026-10-22)
 - Renamed from TruthTrace to TruthSweep (manifest name `truthsweep`, repo github.com/OmnipotentCEOxJenny/truthsweep, skill `truthsweep-check`). Releases 1.0.0 to 1.0.3 and the 2026-10-20 marketplace submission were made under the former name TruthTrace.
 - Keywords: 40, with TruthSweep, JennyEcho and OmnipotentCeo. Logo artwork unchanged.

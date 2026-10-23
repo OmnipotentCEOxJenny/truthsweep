@@ -11,6 +11,8 @@ The plugin's AI instructions tell it to answer in the user's language and keep c
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **TruthSweep**
 
 TruthSweep es un plugin gratuito que verifica publicaciones, artículos y afirmaciones con el método SIFT, cita fuentes y marca lo no verificado.
@@ -25,6 +27,8 @@ TruthSweep es un plugin gratuito que verifica publicaciones, artículos y afirma
 - Revisión del marketplace pendiente; aún no es una publicación aprobada.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **TruthSweep**
 
 TruthSweep est un plugin gratuit qui vérifie publications, articles et affirmations avec la méthode SIFT, cite ses sources et signale ce qui n'est pas vérifié.
@@ -39,6 +43,8 @@ TruthSweep est un plugin gratuit qui vérifie publications, articles et affirmat
 - Examen sur le marketplace en attente ; pas encore une fiche approuvée.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **TruthSweep**
 
 TruthSweep é um plugin gratuito que verifica publicações, artigos e alegações com o método SIFT, cita fontes e marca o que não foi verificado.
@@ -53,6 +59,8 @@ TruthSweep é um plugin gratuito que verifica publicações, artigos e alegaçõ
 - Análise do marketplace pendente; ainda não é uma listagem aprovada.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **TruthSweep**
 
 TruthSweep ist ein kostenloses Plugin, das Beiträge, Artikel und Behauptungen mit der SIFT-Methode prüft, Quellen nennt und Ungeprüftes kennzeichnet.
@@ -67,6 +75,8 @@ TruthSweep ist ein kostenloses Plugin, das Beiträge, Artikel und Behauptungen m
 - Marketplace-Prüfung ausstehend; noch kein genehmigter Eintrag.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **TruthSweep**
 
 TruthSweep è un plugin gratuito che verifica post, articoli e affermazioni con il metodo SIFT, cita le fonti e segnala ciò che non è verificato.
@@ -81,6 +91,8 @@ TruthSweep è un plugin gratuito che verifica post, articoli e affermazioni con 
 - Revisione del marketplace in attesa; non è ancora una scheda approvata.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **TruthSweep**
 
 TruthSweep is een gratis plug-in die berichten, artikelen en beweringen controleert met de SIFT-methode, bronnen vermeldt en ongeverifieerde punten markeert.
@@ -95,6 +107,8 @@ TruthSweep is een gratis plug-in die berichten, artikelen en beweringen controle
 - Marketplace-beoordeling loopt nog; nog geen goedgekeurde vermelding.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **TruthSweep**
 
 TruthSweep to darmowa wtyczka, która sprawdza posty, artykuły i twierdzenia metodą SIFT, podaje źródła i oznacza to, co niezweryfikowane.
@@ -109,6 +123,8 @@ TruthSweep to darmowa wtyczka, która sprawdza posty, artykuły i twierdzenia me
 - Weryfikacja w marketplace w toku; to jeszcze nie zatwierdzona pozycja.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **TruthSweep**
 
 TruthSweep — бесплатный плагин, который проверяет посты, статьи и утверждения методом SIFT, указывает источники и отмечает непроверенное.
@@ -123,6 +139,8 @@ TruthSweep — бесплатный плагин, который проверя�
 - Проверка в маркетплейсе ещё идёт; это пока не одобренная публикация.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **TruthSweep**
 
 TruthSweep — безкоштовний плагін, що перевіряє дописи, статті й твердження методом SIFT, наводить джерела та позначає неперевірене.
@@ -137,6 +155,8 @@ TruthSweep — безкоштовний плагін, що перевіряє д
 - Перевірка в маркетплейсі ще триває; це ще не схвалений запис.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **TruthSweep**
 
 TruthSweep, gönderileri, makaleleri ve iddiaları SIFT yöntemiyle doğrulayan, kaynak gösteren ve doğrulanmamış olanı işaretleyen ücretsiz bir eklentidir.
@@ -151,6 +171,8 @@ TruthSweep, gönderileri, makaleleri ve iddiaları SIFT yöntemiyle doğrulayan,
 - Marketplace incelemesi sürüyor; henüz onaylı bir liste değil.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **TruthSweep**
 
 TruthSweep إضافة مجانية تتحقق من المنشورات والمقالات والادعاءات بطريقة SIFT، وتذكر المصادر وتشير إلى ما لم يتم التحقق منه.
@@ -165,6 +187,8 @@ TruthSweep إضافة مجانية تتحقق من المنشورات والمق
 - مراجعة المتجر قيد الانتظار؛ ليست قائمة معتمدة بعد.
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **TruthSweep**
 
 TruthSweep הוא תוסף חינמי שבודק פוסטים, כתבות וטענות בשיטת SIFT, מצטט מקורות ומסמן מה שלא אומת.
@@ -179,6 +203,8 @@ TruthSweep הוא תוסף חינמי שבודק פוסטים, כתבות וטע
 - בדיקת ה-marketplace עדיין ממתינה; זה עדיין לא רישום מאושר.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **TruthSweep**
 
 TruthSweep افزونه‌ای رایگان است که پست‌ها، مقاله‌ها و ادعاها را با روش SIFT بررسی می‌کند، منابع را ذکر می‌کند و موارد تأییدنشده را علامت می‌زند.
@@ -193,6 +219,8 @@ TruthSweep افزونه‌ای رایگان است که پست‌ها، مقال
 - بررسی در بازارچه در انتظار است؛ هنوز فهرستی تأییدشده نیست.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **TruthSweep**
 
 TruthSweep एक मुफ़्त प्लगइन है जो SIFT विधि से पोस्ट, लेख और दावों की जाँच करता है, स्रोत बताता है और असत्यापित बातों को चिह्नित करता है।
@@ -207,6 +235,8 @@ TruthSweep एक मुफ़्त प्लगइन है जो SIFT व�
 - मार्केटप्लेस समीक्षा लंबित है; यह अभी स्वीकृत लिस्टिंग नहीं है।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **TruthSweep**
 
 TruthSweep একটি বিনামূল্যের প্লাগইন, যা SIFT পদ্ধতিতে পোস্ট, প্রবন্ধ ও দাবি যাচাই করে, উৎস উল্লেখ করে এবং অযাচাইকৃত বিষয় চিহ্নিত করে।
@@ -221,6 +251,8 @@ TruthSweep একটি বিনামূল্যের প্লাগইন,
 - মার্কেটপ্লেস পর্যালোচনা বাকি; এখনও অনুমোদিত তালিকা নয়।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **TruthSweep**
 
 TruthSweep ایک مفت پلگ اِن ہے جو SIFT طریقے سے پوسٹس، مضامین اور دعووں کی جانچ کرتا ہے، ذرائع بتاتا ہے اور غیر تصدیق شدہ باتوں کی نشاندہی کرتا ہے۔
@@ -235,6 +267,8 @@ TruthSweep ایک مفت پلگ اِن ہے جو SIFT طریقے سے پوسٹس
 - مارکیٹ پلیس کا جائزہ زیرِ التوا ہے؛ ابھی منظور شدہ لسٹنگ نہیں۔
 
 ## 简体中文 (`zh`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **TruthSweep**
 
 TruthSweep 是一款免费插件，使用 SIFT 方法核查帖子、文章和说法，注明来源并标记未经核实的内容。
@@ -249,6 +283,8 @@ TruthSweep 是一款免费插件，使用 SIFT 方法核查帖子、文章和说
 - 市场审核尚在进行，目前还不是已批准的上架项目。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **TruthSweep**
 
 TruthSweep は、SIFT 法で投稿・記事・主張を検証し、出典を示し、未確認の点を明示する無料プラグインです。
@@ -263,6 +299,8 @@ TruthSweep は、SIFT 法で投稿・記事・主張を検証し、出典を示�
 - マーケットプレイスの審査待ちで、まだ承認済みの掲載ではありません。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **TruthSweep**
 
 TruthSweep는 SIFT 방법으로 게시물, 기사, 주장을 검증하고 출처를 밝히며 확인되지 않은 내용을 표시하는 무료 플러그인입니다.
@@ -277,6 +315,8 @@ TruthSweep는 SIFT 방법으로 게시물, 기사, 주장을 검증하고 출처
 - 마켓플레이스 심사 대기 중이며 아직 승인된 목록이 아닙니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **TruthSweep**
 
 TruthSweep adalah plugin gratis yang memeriksa unggahan, artikel, dan klaim dengan metode SIFT, mencantumkan sumber, dan menandai yang belum terverifikasi.
@@ -291,6 +331,8 @@ TruthSweep adalah plugin gratis yang memeriksa unggahan, artikel, dan klaim deng
 - Peninjauan marketplace masih menunggu; belum menjadi listing yang disetujui.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **TruthSweep**
 
 TruthSweep là plugin miễn phí kiểm chứng bài đăng, bài báo và tuyên bố bằng phương pháp SIFT, trích dẫn nguồn và đánh dấu điều chưa được xác minh.
@@ -305,6 +347,8 @@ TruthSweep là plugin miễn phí kiểm chứng bài đăng, bài báo và tuy�
 - Đang chờ marketplace xét duyệt; chưa phải mục đã được phê duyệt.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **TruthSweep**
 
 TruthSweep ni programu-jalizi ya bure inayokagua machapisho, makala na madai kwa mbinu ya SIFT, inataja vyanzo na kuweka alama kwa yasiyothibitishwa.
@@ -319,6 +363,8 @@ TruthSweep ni programu-jalizi ya bure inayokagua machapisho, makala na madai kwa
 - Ukaguzi wa marketplace bado unasubiriwa; bado si orodha iliyoidhinishwa.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **TruthSweep**
 
 Ang TruthSweep ay libreng plugin na sumusuri ng mga post, artikulo at pahayag gamit ang pamamaraang SIFT, nagbabanggit ng mga sanggunian at minamarkahan ang hindi pa napapatunayan.
