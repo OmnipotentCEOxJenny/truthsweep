@@ -1,7 +1,7 @@
 {
   "name": "truthsweep",
   "displayName": "TruthSweep",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Free fact-check helper for social posts, articles and claims using the SIFT method (Stop, Investigate, Find, Trace). Cites sources, rates confidence, flags anything unverified.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
